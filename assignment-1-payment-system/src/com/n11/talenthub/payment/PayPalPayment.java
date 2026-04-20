@@ -1,6 +1,5 @@
 package com.n11.talenthub.payment;
 
-//Sonradan eklenen PayPal ile odeme.
 public class PayPalPayment implements PaymentMethod {
 
     private String email;
